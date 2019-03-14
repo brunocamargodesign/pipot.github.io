@@ -1,0 +1,1 @@
+"use strict";var flagCurrent=document.getElementById("flag-current"),flagList=document.getElementById("flag-list");flagCurrent.addEventListener("click",function(){flagList.classList.toggle("language__list--active")});
